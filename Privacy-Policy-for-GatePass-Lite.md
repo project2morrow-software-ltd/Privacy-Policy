@@ -89,7 +89,21 @@ Users may request deletion of their face data through their organization adminis
 
 ---
 
-# 4. Data Security
+# 4. User Data Storage and Google Drive Access
+
+Certain attendance records, reports, or organizational data may be stored directly in the licensed user's own Google Drive account using Google services and APIs.
+
+In such cases:
+
+* Data is stored under the user's own Google account
+* Only the licensed user or authorized organization administrators can access the stored files
+* Project 2morrow Software Limited does not access, view, modify, or share files stored in the user's Google Drive unless explicitly authorized by the user
+
+Google Drive access is used solely for backup, synchronization, export, or organizational data management features requested by the user or organization.
+
+---
+
+# 5. Data Security
 
 We implement industry-standard technical and organizational security measures to protect user information.
 
@@ -104,17 +118,18 @@ Despite our efforts, no method of electronic storage or transmission over the In
 
 ---
 
-# 5. Third-Party Services
+# 6. Third-Party Services
 
 The Application may use trusted third-party services such as:
 
 * Google Play Services
+* Google Drive API
 
 These services may process limited information necessary to provide their functionality. Third-party providers are not permitted to use your data for unrelated purposes.
 
 ---
 
-# 6. Data Retention
+# 7. Data Retention
 
 Project 2morrow Software Limited retains personal data only for as long as necessary to fulfill:
 
@@ -126,7 +141,7 @@ Retention periods may also depend on your employer’s internal policies.
 
 ---
 
-# 7. Children's Privacy
+# 8. Children's Privacy
 
 Gate Pass Lite is an enterprise application intended for organizational use only and is not directed toward children under the age of 13.
 
@@ -134,7 +149,7 @@ We do not knowingly collect personal information from children.
 
 ---
 
-# 8. Legal Basis for Processing
+# 9. Legal Basis for Processing
 
 We process user information based on:
 
@@ -144,16 +159,18 @@ We process user information based on:
 
 ---
 
-# 9. Data Deletion Requests
+# 10. Data Deletion Requests
 
 Users may request account or data deletion through:
 
 * Their organization administrator
 * Direct communication with us using the contact information below
 
+Users may also independently manage or delete files stored in their own Google Drive accounts.
+
 ---
 
-# 10. Changes to This Privacy Policy
+# 11. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.
 
@@ -161,7 +178,7 @@ Any changes will be reflected by updating the "Effective Date" at the top of thi
 
 ---
 
-# 11. Contact Us
+# 12. Contact Us
 
 If you have any questions regarding this Privacy Policy, please contact us:
 
