@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**Effective Date:** 17 September 2026 (replaces the policy dated 4 June 2025)
+**Effective Date:** 27 September 2026
 **App Name:** EduCalling
 **Developer:** Project 2morrow Software Limited
 **Contact:** info@p2msoft.com
 
-EduCalling is a school management application used by teachers, school staff and guardians. This Privacy Policy explains what information the app handles, why, and how it is protected.
+EduCalling is a school management application for Android and iOS, used by teachers, school staff and guardians. This Privacy Policy explains what information the app handles, why, and how it is protected.
 
 ---
 
@@ -31,23 +31,33 @@ This information is entered and maintained by the school, not collected from you
 
 ### Information you choose to upload
 - **Leave applications:** guardians may attach documents (PDF or image files) to a student's leave request. These files are uploaded to our server and stored with the leave request. Attaching a file is optional.
+- **Profile pictures:** when adding or editing a student, guardian or teacher record, you may choose a photo from your device to use as that person's profile picture. The app receives only the image you select; it never browses your photo library. Choosing a photo is optional.
 - **Records you enter:** teachers may record attendance, exam results, assignments, fee entries and similar school data as part of their work.
 
 ### Information we do not collect
 - No precise or approximate location
 - No advertising identifiers, and no advertising or analytics SDKs
-- No contacts, photos, camera or microphone access
+- No contacts, camera or microphone access
+- No access to your photo library beyond the single image you pick for a profile picture or attach to a leave application
 - No payment card or mobile-banking details (see section 5)
 
 ---
 
 ## 3. Permissions the App Requests
 
+**On Android**
+
 - `INTERNET` and `ACCESS_NETWORK_STATE` — to communicate with the school server and to detect when the device is offline.
 - `READ_EXTERNAL_STORAGE` / `WRITE_EXTERNAL_STORAGE` (Android 9 and earlier only) — to save fee receipts and reports you download. On newer Android versions no storage permission is needed.
-- Files for leave applications are chosen through the Android system file picker; the app only receives the files you select.
 
-Permissions are used only for the action you start (for example, downloading a receipt).
+**On iOS**
+
+- **Photo library** (`NSPhotoLibraryUsageDescription`) — asked only when you tap to choose a profile picture, or attach an image to a leave application. iOS shows you its own picker and hands the app just the file you select.
+- **Files** — downloaded fee receipts and reports are saved into the app's own folder, which you can open in the Files app. No permission prompt is involved.
+- The app does not request location, contacts, camera, microphone or notification permissions.
+
+Permissions are used only for the action you start (for example, downloading a receipt). Declining a
+permission only disables that one feature; the rest of the app keeps working.
 
 ---
 
