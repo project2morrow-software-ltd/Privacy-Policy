@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 27 September 2026
+**Effective Date:** 1 October 2026 (replaces the policy dated 27 September 2026)
 **App Name:** EduCalling
 **Developer:** Project 2morrow Software Limited
 **Contact:** info@p2msoft.com
@@ -93,31 +93,45 @@ We do not sell, rent or share your personal data with third parties for their ow
 
 ---
 
-## 8. Data Security
+## 8. No Tracking
+
+EduCalling does **not** track you.
+
+- The app contains **no advertising SDKs and no analytics SDKs** of any kind.
+- It does **not** access the device's advertising identifier (IDFA on iOS, or the Android advertising ID).
+- It does **not** link any data it collects with third-party data for advertising or advertising measurement.
+- It does **not** share your data with data brokers.
+- Because the app does not track users, it does not ask for permission through Apple's App Tracking Transparency framework — that permission is only required of apps that do track.
+
+Every data type the app handles is used for **app functionality only**: signing you in and showing or managing the school records that belong to your role.
+
+---
+
+## 9. Data Security
 
 All communication between the app and our servers is encrypted in transit (HTTPS/TLS). Access is role-based and every request is authenticated. Sessions expire automatically, and signing out clears all locally stored data.
 
 ---
 
-## 9. Data Retention and Deletion
+## 10. Data Retention and Deletion
 
 School records are kept for as long as your school uses EduCalling and as required by its academic and financial record-keeping obligations. You can ask for your personal data to be corrected or deleted by contacting your school administrator or by emailing **info@p2msoft.com** from your registered email or phone number. Fee and payment records may be retained where a legal or accounting requirement applies; we will tell you what has been deleted and what must be kept.
 
 ---
 
-## 10. Children's Privacy
+## 11. Children's Privacy
 
 Student information is entered by the school and viewed through guardian and teacher accounts. The app does not collect data directly from children and does not provide accounts to them.
 
 ---
 
-## 11. Changes to This Policy
+## 12. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Changes are published on this page with a new effective date.
 
 ---
 
-## 12. Contact Us
+## 13. Contact Us
 
 **Email:** info@p2msoft.com
 **Website:** [https://www.p2msoft.com/](https://www.p2msoft.com/)
